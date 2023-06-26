@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "27f6cc1fe0882bb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "55ab6e987286b6ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dbe35a27cec7536",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "887c8cd763455e4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Growth Perspectives for Naresh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78fe708f2cbab0ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Growth Perspectives for Naresh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d175ae212460ecb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Growth Perspectives for Naresh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcb4a172ac40c081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "career/Career.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5485766e35e7c25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Growth Perspectives for Naresh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c244a7f5c7203b90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "career/Career.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ca1c73f7c57b76d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Growth Perspectives for Naresh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89c5d30b8843d1ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Growth Perspectives for Naresh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8148a5cd89b765c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mental Health.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65667557111011f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Growth Perspectives for Naresh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "515b1923830ea598",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbbf0f33c70a2cdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "465e73584f736939",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d40d448944d33379",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ab0d09a41220270",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed8cf9b5209befbb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f35dfdf4c1500d44",
+    "type": "split",
+    "children": [
+      {
+        "id": "159f574eb2b81ea6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06412b6530652f2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9dbc1442bc875086",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6457670ec0546fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c9640e55cd428bc2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "515b1923830ea598",
+  "lastOpenFiles": [
+    "career/Career.md",
+    "Personal Growth.md",
+    "Relationships.md",
+    "Growth Perspectives for Naresh.md",
+    "Mental Health.md",
+    "Physical Health.md",
+    "career/Developer perspective - building conversesphere APIs.md",
+    "career/Improving DataStructures and Algorithms.md",
+    "career",
+    "Finances.md",
+    "Environment.md"
+  ]
+}

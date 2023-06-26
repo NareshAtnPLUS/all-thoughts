@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "d77dc491bc84276a",
+    "type": "split",
+    "children": [
+      {
+        "id": "299dac78ad2a49a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d7e3a84bc1a70a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Naresh Growth/Growth Perspectives for Naresh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a2110ed5e33c632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Naresh Growth/Growth Perspectives for Naresh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd894d06bee6639a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Naresh Growth/Growth Perspectives for Naresh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8ac3752ce290b4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Naresh Growth/Growth Perspectives for Naresh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "841206210272c199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Naresh Growth/Growth Perspectives for Naresh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84c09b4459b5f620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Naresh Growth/Growth Perspectives for Naresh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69b8a2418c28e753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Naresh Growth/career/Career.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "387bcff50b678c49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Naresh Growth/Growth Perspectives for Naresh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d139385c16e4961f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Naresh Growth/Relationships.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb2157702e0db9f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Naresh Growth/career/Developer perspective - building conversesphere APIs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd28465671d2952b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c93bc8156fd0080",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27d72143d03c716f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98b2409dbf1cde41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54580e21f59bf7ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43c542dfc2622c1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbd34c921ddf5c32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74450a56c5b81f0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Naresh Growth/career/Developer perspective - building conversesphere APIs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13f2761d5e39857a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Naresh Growth/career/Developer perspective - building conversesphere APIs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "410e6ee720d8cfac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b9db538e6f131b8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Naresh Growth/career/Developer perspective - building conversesphere APIs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cb2157702e0db9f9",
+  "lastOpenFiles": [
+    "Naresh Growth/Growth Perspectives for Naresh.md",
+    "Naresh Growth/Finances.md",
+    "Naresh Growth/Life Partner.md",
+    "Naresh Growth/career/Developer perspective - building conversesphere APIs.md",
+    "Naresh Growth/career/Improving DataStructures and Algorithms.md",
+    "Naresh Growth/career/Career.md",
+    "Naresh Growth/Relationships.md",
+    "lifepartner.md",
+    "Naresh Growth/Environment.md",
+    "Naresh Growth/Physical Health.md",
+    "Naresh Growth/Personal Growth.md",
+    "Naresh Growth/Mental Health.md"
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "3bb479f3e0e3f024",
+    "type": "split",
+    "children": [
+      {
+        "id": "39c3ce4dfdd4e889",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79a7e2cb4e29c2b9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ed15c1b06dfc226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sim Racing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce9395c078953e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sim Racing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d23a69cfe62a994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Car Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb44bb8a802b2514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Car Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe7fc4292db28fa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanical Grip.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc0eacf131dd98a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2caf20cb7405ef8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5898a4e1aaa2821a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "280a4a0f0294f1bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b90fe1a0d1151d22",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e7292fd54dd79b3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0e8eba224d8ee61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "407cf565664f9907",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mechanical Grip.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f53c47d0b8b3db64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mechanical Grip.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99e2554c40c024ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b0d787060e26be12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mechanical Grip.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fe7fc4292db28fa4",
+  "lastOpenFiles": [
+    "Fuel and Strategy.md",
+    "Driving Style.md",
+    "Car Setup.md",
+    "Aero.md",
+    "Dampers.md",
+    "Mechanical Grip.md",
+    "Mechanical Grip 1.md",
+    "Fuel and Strategy 1.md",
+    "Sim Racing.md",
+    "Tyres.md"
+  ]
+}
