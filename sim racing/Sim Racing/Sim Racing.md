@@ -20,12 +20,13 @@ Things I should do to get better at GT Racing
 
 #### TO DO List Sim racing
 - Study about the setups extensively
+- Understand motec i2 software and how to look at the racing data 
 - Build optimal setups for Spa-Francochomps 
 	- Mercedes AMG GT3
 	- BMW M4 GT3
 	- Audi R8 GT3
 - Study the characteristics of the car and list them seperately
-- 
+- [[Build a PC]]
 
 Note down what you feel about the previous session in 
 [[Personal Feedback Note]]

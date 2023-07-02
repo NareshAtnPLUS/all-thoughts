@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "growth/Naresh Growth/Relationships.md",
+                "file": "sim racing/Sim Racing/Sim Racing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d24c77a78720f5b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sim racing/Sim Racing/Build a PC.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +49,13 @@
             "state": {
               "type": "image",
               "state": {
+<<<<<<< HEAD
                 "file": "sim racing/Sim Racing/wheel_toe2.gif"
+=======
+                "file": "sim racing/Sim Racing/Build a PC.md",
+                "mode": "source",
+                "source": false
+>>>>>>> 92930da (added some stuff in ubunutu)
               }
             }
           },
@@ -119,7 +137,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "sim racing/Sim Racing/Car Setup.md",
+=======
+                "file": "sim racing/Sim Racing/Build a PC.md",
+>>>>>>> 92930da (added some stuff in ubunutu)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +158,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "sim racing/Sim Racing/Car Setup.md",
+=======
+                "file": "sim racing/Sim Racing/Build a PC.md",
+>>>>>>> 92930da (added some stuff in ubunutu)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +185,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "sim racing/Sim Racing/Car Setup.md"
+=======
+                "file": "sim racing/Sim Racing/Build a PC.md"
+>>>>>>> 92930da (added some stuff in ubunutu)
               }
             }
           }
@@ -180,6 +210,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "15001906bb9cc61a",
   "lastOpenFiles": [
     "sim racing/Sim Racing/Tyres.md",
@@ -197,5 +228,22 @@
     "growth/Naresh Growth/Physical Health.md",
     "growth/Naresh Growth/Growth Perspectives for Naresh.md",
     "sim racing/Sim Racing/Sim Racing.md"
+=======
+  "active": "d24c77a78720f5b1",
+  "lastOpenFiles": [
+    "sim racing/Sim Racing/Sim Racing.md",
+    "sim racing/Sim Racing/Build a PC.md",
+    "growth/Naresh Growth/Relationships.md",
+    "sim racing/Sim Racing/Aero.md",
+    "sim racing/Sim Racing/Mechanical Grip.md",
+    "sim racing/Sim Racing/Fuel and Strategy.md",
+    "sim racing/Sim Racing/Driving Style.md",
+    "growth/Naresh Growth/Life Partner.md",
+    "growth/Naresh Growth/Physical Health.md",
+    "growth/Naresh Growth/Growth Perspectives for Naresh.md",
+    "sim racing/Sim Racing/Dampers.md",
+    "sim racing/Sim Racing/Car Setup.md",
+    "sim racing/Sim Racing/Tyres.md"
+>>>>>>> 92930da (added some stuff in ubunutu)
   ]
 }

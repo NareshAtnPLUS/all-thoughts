@@ -69,6 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Sim Racing.md",
                 "mode": "source",
                 "source": false
@@ -118,6 +119,9 @@
               "type": "markdown",
               "state": {
                 "file": "Driving Style.md",
+=======
+                "file": "Build a PC.md",
+>>>>>>> 92930da (added some stuff in ubunutu)
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +194,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Driving Style.md",
+=======
+                "file": "Build a PC.md",
+>>>>>>> 92930da (added some stuff in ubunutu)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +215,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Driving Style.md",
+=======
+                "file": "Build a PC.md",
+>>>>>>> 92930da (added some stuff in ubunutu)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Driving Style.md"
+=======
+                "file": "Build a PC.md"
+>>>>>>> 92930da (added some stuff in ubunutu)
               }
             }
           }
@@ -253,6 +269,7 @@
   },
   "active": "4075ec43145bdf71",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Car Setup.md",
     "Driving Style.md",
     "BMW M4 GT3.md",
@@ -270,5 +287,19 @@
     "Fuel and Strategy.md",
     "Mechanical Grip 1.md",
     "Fuel and Strategy 1.md"
+=======
+    "Sim Racing.md",
+    "Build a PC.md",
+    "Untitled.md",
+    "Car Setup.md",
+    "Dampers.md",
+    "Driving Style.md",
+    "Fuel and Strategy.md",
+    "Mechanical Grip.md",
+    "Aero.md",
+    "Mechanical Grip 1.md",
+    "Fuel and Strategy 1.md",
+    "Tyres.md"
+>>>>>>> 92930da (added some stuff in ubunutu)
   ]
 }
