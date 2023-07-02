@@ -3,11 +3,11 @@ this will help me simulate the ride height of the car, when the fuel is burned o
 
 ## 2. Ride Height
 It indicates the how many mm between there are between the ground and the underside of the car. 
-I can change the front and rear ride height independantly
+I can change the front and rear ride height independently
 generally, racing cars prefers lower ride height of the car
 having a low center of gravity make the car more stable through the corners and create less body movements
-there are also two reasons why we dont make lower ride heights possible 
-1. i dont want to make the car to bottom out and hit the circuit, especially mid corner
+there are also two reasons why we don't make lower ride heights possible 
+1. I don't want to make the car to bottom out and hit the circuit, especially mid corner
 2. Its not just about the overall height of the car, its about balance of the height from front to back 
 ### High rake philosophy
 Lowering the front ride height and increasing the rear ride height will change the angle of the car, forcing more air to push the front of the car into the ground, giving you more grip at the front and less grip at the rear, this will you give me sharper turn in but it can cause oversteer and also loose some straight line performance

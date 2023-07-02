@@ -1,56 +1,18 @@
 {
   "main": {
-    "id": "538d3908031567cd",
+    "id": "dbfc909555f8c093",
     "type": "split",
     "children": [
       {
-        "id": "ca1996b448d9b4d8",
+        "id": "935ba7e99fcbf1dc",
         "type": "tabs",
         "children": [
           {
-            "id": "15001906bb9cc61a",
+            "id": "7cdc4f100014d141",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sim racing/Sim Racing/Car Setup.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9982aab7d9155acf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "growth/Naresh Growth/Relationships.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a7f8bad19d8bdf9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "sim racing/Sim Racing/wheel_toe2.gif"
-              }
-            }
-          },
-          {
-            "id": "280303ba40dffff0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sim racing/Sim Racing/Aero.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -59,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4344d9a45888097f",
+    "id": "7413f670a872d407",
     "type": "split",
     "children": [
       {
-        "id": "7b980e5f163e4883",
+        "id": "657b3911a17153bf",
         "type": "tabs",
         "children": [
           {
-            "id": "a9d8ab3bc40cff26",
+            "id": "140a13f2a1706063",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +39,7 @@
             }
           },
           {
-            "id": "2f3fb16b5e9bd654",
+            "id": "f1c3809a1ed45c6d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -92,7 +54,7 @@
             }
           },
           {
-            "id": "3392b7b3b3ec3eb1",
+            "id": "3d4efe6560f4e5be",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "b4f74f7449c27520",
+    "id": "1b02fabb8a6b44a8",
     "type": "split",
     "children": [
       {
-        "id": "3e3f0b760755d277",
+        "id": "1182f9bbe33ad31b",
         "type": "tabs",
         "children": [
           {
-            "id": "5422afa54f1b2185",
+            "id": "42a945c14c74640e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sim racing/Sim Racing/Car Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,19 +92,18 @@
             }
           },
           {
-            "id": "d5e428448f12d5dc",
+            "id": "19c6a2306ef6287e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sim racing/Sim Racing/Car Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c54b8e881ba22bba",
+            "id": "327685212554df99",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -154,13 +114,11 @@
             }
           },
           {
-            "id": "89005ed90fa4ad9c",
+            "id": "3b2bbdab5f851b74",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sim racing/Sim Racing/Car Setup.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -180,22 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15001906bb9cc61a",
-  "lastOpenFiles": [
-    "sim racing/Sim Racing/Tyres.md",
-    "sim racing/Sim Racing/Pasted image 20230627040206.jpg",
-    "sim racing/Sim Racing/Mechanical Grip.md",
-    "sim racing/Sim Racing/Car Setup.md",
-    "growth/Naresh Growth/Relationships.md",
-    "sim racing/Sim Racing/wheel_toe2.gif",
-    "sim racing/Sim Racing/wheel_toe2 1.gif",
-    "sim racing/Sim Racing/Dampers.md",
-    "sim racing/Sim Racing/Driving Style.md",
-    "sim racing/Sim Racing/Aero.md",
-    "sim racing/Sim Racing/Fuel and Strategy.md",
-    "growth/Naresh Growth/Life Partner.md",
-    "growth/Naresh Growth/Physical Health.md",
-    "growth/Naresh Growth/Growth Perspectives for Naresh.md",
-    "sim racing/Sim Racing/Sim Racing.md"
-  ]
+  "active": "7cdc4f100014d141",
+  "lastOpenFiles": []
 }

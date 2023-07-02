@@ -13,7 +13,7 @@ Things I should do to get better at GT Racing
 3. [[Cars Selection]] - Choose set of cars which works best for you across different set of tracks
 4. [[Telemetry Data]] -  Learn how to read telemetry data
 5. [[Feedback from telemetry]] - Understand the feedback from the telemetry data
-#### Keys Points and Basic Rules and Regulations for me.
+### Keys Points and Basic Rules and Regulations for me.
 - No screen time after 9 o clock
 - Send everyone out of gaming after 9 o clock
 - wash my face before sleep
@@ -27,3 +27,5 @@ Things I should do to get better at GT Racing
 - Study the characteristics of the car and list them seperately
 - 
 
+Note down what you feel about the previous session in 
+[[Personal Feedback Note]]

@@ -2,5 +2,6 @@
   "accentColor": "",
   "textFontFamily": "Roboto",
   "interfaceFontFamily": "Roboto",
-  "baseFontSize": 20
+  "baseFontSize": 26,
+  "cssTheme": "Things"
 }

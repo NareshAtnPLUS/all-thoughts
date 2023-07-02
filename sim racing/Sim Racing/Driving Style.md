@@ -16,3 +16,23 @@ During this phase, i like to turn as quickly as possible, pivot the car towards 
 
 #### Corner Exit 
 During this phase i want the car support the massive acceleration, 
+
+
+I need to learn how to keep the car stable on corner entry, pivot the car in the corner exit direction, shoot out in a controlled manner, 
+
+I have to feel the car more 
+
+
+- [!] Immediate steps to improve the driving style.
+- [ ] Feel the car's understeer and oversteer and note it down
+	- [ ] Set the correct toe, camber and anti rollbar settings
+- [ ] Study why 
+	- [ ] understeer happens
+	- [ ] oversteer happens
+- [ ] Drive 50 Consistent Laps around the track, During this phase
+	- [ ] Do not push the car to its limits
+	- [ ] 
+- [ ] Analyze how the grip of the car changes in 
+	- [ ] accleration
+	- [ ] braking
+	- [ ] steering
