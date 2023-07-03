@@ -2,6 +2,7 @@ Before setting up the car, i need to know the  basic characteritics of the car. 
 - [[Mercedes AMG GT3]]
 - [[BMW M4 GT3]]
 - [[Audi R8 GT3]]
+- [[McLaren]]
 car setup is split into 6 sections
 1. [[Tyres]]
 2. [[Electronics]]

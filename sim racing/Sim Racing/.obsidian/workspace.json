@@ -1,148 +1,39 @@
 {
   "main": {
-    "id": "3bb479f3e0e3f024",
+    "id": "c1ea61ec65a0809c",
     "type": "split",
     "children": [
       {
-        "id": "39c3ce4dfdd4e889",
+        "id": "1a68b5e76f1c723c",
         "type": "tabs",
         "children": [
           {
-            "id": "79a7e2cb4e29c2b9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5ed15c1b06dfc226",
+            "id": "1a56824757fb547d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sim Racing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce9395c078953e2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sim Racing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d23a69cfe62a994",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Car Setup.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb44bb8a802b2514",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Car Setup.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe7fc4292db28fa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Sim Racing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25d47275c9c629ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sim Racing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bd7cdfeee4cfbba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Car Setup.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7266c6b5cd547178",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Car Setup.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4075ec43145bdf71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Driving Style.md",
-=======
-                "file": "Build a PC.md",
->>>>>>> 92930da (added some stuff in ubunutu)
+                "file": "Personal Feedback Note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cc0eacf131dd98a8",
+    "id": "fb3ddef807b83f28",
     "type": "split",
     "children": [
       {
-        "id": "2caf20cb7405ef8f",
+        "id": "b58652f020a30c2d",
         "type": "tabs",
         "children": [
           {
-            "id": "5898a4e1aaa2821a",
+            "id": "7eefe83288883212",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -152,7 +43,7 @@
             }
           },
           {
-            "id": "280a4a0f0294f1bb",
+            "id": "1d334ac5cf515cc7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -167,7 +58,7 @@
             }
           },
           {
-            "id": "b90fe1a0d1151d22",
+            "id": "af825a1d14d8f520",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -181,24 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "e7292fd54dd79b3f",
+    "id": "047e33b1ebbea982",
     "type": "split",
     "children": [
       {
-        "id": "d0e8eba224d8ee61",
+        "id": "e7359a4e5f5b5b79",
         "type": "tabs",
         "children": [
           {
-            "id": "407cf565664f9907",
+            "id": "c6de1df0f4a8ba31",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Driving Style.md",
-=======
-                "file": "Build a PC.md",
->>>>>>> 92930da (added some stuff in ubunutu)
+                "file": "Personal Feedback Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,23 +97,19 @@
             }
           },
           {
-            "id": "f53c47d0b8b3db64",
+            "id": "7280de137f0d8670",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Driving Style.md",
-=======
-                "file": "Build a PC.md",
->>>>>>> 92930da (added some stuff in ubunutu)
+                "file": "Personal Feedback Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "99e2554c40c024ee",
+            "id": "d72db83004b82f95",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -237,16 +120,12 @@
             }
           },
           {
-            "id": "b0d787060e26be12",
+            "id": "14f1f2c73abe1f65",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Driving Style.md"
-=======
-                "file": "Build a PC.md"
->>>>>>> 92930da (added some stuff in ubunutu)
+                "file": "Personal Feedback Note.md"
               }
             }
           }
@@ -267,39 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4075ec43145bdf71",
+  "active": "7eefe83288883212",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Car Setup.md",
     "Driving Style.md",
-    "BMW M4 GT3.md",
-    "Tyres.md",
-    "Pasted image 20230630183149.png",
-    "Mechanical Grip.md",
-    "wheel_toe2.gif",
-    "wheel_toe2 1.gif",
-    "Aero.md",
-    "Pasted image 20230627040206.jpg",
-    "Personal Feedback Note.md",
-    "Untitled.md",
-    "Sim Racing.md",
-    "Dampers.md",
-    "Fuel and Strategy.md",
-    "Mechanical Grip 1.md",
-    "Fuel and Strategy 1.md"
-=======
-    "Sim Racing.md",
+    "Car Setup.md",
     "Build a PC.md",
-    "Untitled.md",
-    "Car Setup.md",
-    "Dampers.md",
-    "Driving Style.md",
     "Fuel and Strategy.md",
-    "Mechanical Grip.md",
-    "Aero.md",
-    "Mechanical Grip 1.md",
-    "Fuel and Strategy 1.md",
-    "Tyres.md"
->>>>>>> 92930da (added some stuff in ubunutu)
+    "Pasted image 20230627040206.jpg"
   ]
 }
